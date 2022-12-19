@@ -1,6 +1,7 @@
-tugas 1 project github
+Rencana Pembuatan Sistem
 - membuat sistem pada dinas pariwisata provinsi gorontalo
 - tanggal awal pembuatan project
 - tanggal akhir pembuatan project
 - manejer proyek
 - informasi anggaran
+- tujuan proyek
