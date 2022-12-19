@@ -1,0 +1,4 @@
+tugas 1 project github
+- membuat sistem pada dinas pariwisata provinsi gorontalo
+- tanggal awal pembuatan project
+- tanggal akhir pembuatan project
