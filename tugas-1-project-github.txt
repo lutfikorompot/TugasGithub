@@ -3,3 +3,4 @@ tugas 1 project github
 - tanggal awal pembuatan project
 - tanggal akhir pembuatan project
 - manejer proyek
+- informasi anggaran
